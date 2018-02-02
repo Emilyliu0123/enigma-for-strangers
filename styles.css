@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.imgClass{
+    top: 30%;
+    left: calc(50% - 250px);
+    position: relative;
+}
+.imgClass2{
+    top:30%;
+    left: calc(50% - 310px);
+    position:relative;
+}
+.date{
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Gill Sans";
+    color: bisque;
+    margin: 2% 1%;
+    z-index: 2;
+}
+.Class1{
+    position: relative;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 200;
+    font-family: "Gill Sans";
+    color: floralwhite;
+    margin: 1% calc(50% - 250px);
+}
+.ClassTips{
+    position: relative;
+    text-align: center;
+    font-size: 12px;
+    font-weight:200;
+    font-family: "Gill Sans";
+    color: floralwhite;
+    margin: 1% calc(50% - 250px);
+}
+.ClassMain{
+    position:relative;
+    text-align: center;
+    font-size: 18px;
+    font-weight:400;
+    font-family: "Gill Sans";
+    color: floralwhite;
+    margin: 1% calc(50% - 250px);
+}
+.ClassHeader{
+    position:relative;
+    text-align: center;
+    font-size: 36px;
+    font-weight:200;
+    font-family: "Gill Sans";
+    color:white;
+    margin: 1% calc(50% - 250px);
+}
+.ClassSubHead{
+    position:relative;
+    text-align: center;
+    font-size: 15px;
+    font-weight:100;
+    font-family: "Gill Sans";
+    color: white;
+    margin: 1% calc(50% - 250px);
+}
+embed:focus { 
+    outline: none;
+}
+.Counter{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 1px;
+    margin: 10px;
+    float: center;
+    padding: 30px;
+    text-align: center; 
+    font-size: 18px;
+    font-weight:400;
+    font-family: "Gill Sans";
+    color: floralwhite;
+}
